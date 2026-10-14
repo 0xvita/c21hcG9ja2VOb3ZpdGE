@@ -12,77 +12,70 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Novita =====
-[1]Novita      |16:41:52 | 13-10-2026| login OK @novitarastanty | score=1130 rank=5357
-[1]Novita      |16:41:52 | 13-10-2026| serverTime=2026-10-13T16:41:52.000Z local=2026-10-13T16:41:52.577Z
+[1]Novita      |14:18:29 | 14-10-2026| login OK @novitarastanty | score=1200 rank=5058
+[1]Novita      |14:18:29 | 14-10-2026| serverTime=2026-10-14T14:18:28.000Z local=2026-10-14T14:18:29.067Z
 --> [1]Novita menjalankan: Claim Daily
-[1]Novita      |16:41:53 | 13-10-2026| daily: OK +10 poin score=1140
---> [1]Novita menjalankan: Auto All Tasks (6 pending)
-[1]Novita      |16:41:54 | 13-10-2026| [1/6] 07e08c90 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/novitarastanty/status/2110047854370294137
-[1]Novita      |16:41:54 | 13-10-2026| delay 10s...
-[1]Novita      |16:42:06 | 13-10-2026| [2/6] 2f4050f7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/novitarastanty/status/2110047843629301474
-[1]Novita      |16:42:06 | 13-10-2026| delay 10s...
-[1]Novita      |16:42:18 | 13-10-2026| [3/6] b3500764 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/novitarastanty/status/2110048090955586379
-[1]Novita      |16:42:18 | 13-10-2026| delay 10s...
-[1]Novita      |16:42:30 | 13-10-2026| [4/6] b1aa7a09 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/novitarastanty/status/2110048110127922752
-[1]Novita      |16:42:30 | 13-10-2026| delay 10s...
-[1]Novita      |16:42:42 | 13-10-2026| [5/6] c3c2f662 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/novitarastanty/status/2110048273319097059
-[1]Novita      |16:42:42 | 13-10-2026| delay 10s...
-[1]Novita      |16:42:53 | 13-10-2026| [6/6] 34f1e829 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Novita      |16:42:53 | 13-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Novita      |16:42:55 | 13-10-2026| [1/1] 07e08c90 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/novitarastanty/status/2110048241957371305
+[1]Novita      |14:18:30 | 14-10-2026| daily: sudah klaim (already=true) score=1200
+--> [1]Novita menjalankan: Auto All Tasks (3 pending)
+[1]Novita      |14:18:32 | 14-10-2026| [1/3] 68f22c3e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/novitarastanty/status/2110374138405906100
+[1]Novita      |14:18:32 | 14-10-2026| delay 10s...
+[1]Novita      |14:18:44 | 14-10-2026| [2/3] 8dd1f57c (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Novita      |14:18:44 | 14-10-2026| delay 10s...
+[1]Novita      |14:18:57 | 14-10-2026| [3/3] 039113e7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/novitarastanty/status/2110374286803984852
+[1]Novita      |14:18:57 | 14-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Novita      |14:18:58 | 14-10-2026| [1/1] 68f22c3e (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/novitarastanty/status/2110374532046043160
 --> [1]Novita menjalankan: Watch Anime
-[1]Novita      |16:42:56 | 13-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
-[1]Novita      |16:42:56 | 13-10-2026| watch [1/3] farming oshi-captains-hat...
+[1]Novita      |14:18:59 | 14-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
+[1]Novita      |14:18:59 | 14-10-2026| watch [1/3] farming oshi-captains-hat...
   video baru dikenal: oshi-captains-hat (katalog +4)
-[1]Novita      |16:42:58 | 13-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Novita      |16:43:03 | 13-10-2026| watch [2/3] farming oshi-rainbow-star...
-[1]Novita      |16:43:05 | 13-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Novita      |16:43:10 | 13-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
-[1]Novita      |16:43:11 | 13-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Novita      |14:19:01 | 14-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Novita      |14:19:06 | 14-10-2026| watch [2/3] farming oshi-rainbow-star...
+[1]Novita      |14:19:08 | 14-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Novita      |14:19:13 | 14-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
+[1]Novita      |14:19:15 | 14-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Novita menjalankan: Read Article
-[1]Novita      |16:43:12 | 13-10-2026| news: 24/24 artikel selesai dibaca
-[1]Novita      |16:43:13 | 13-10-2026| mint eligibility: {"userId":"1711696802859388928","youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticReady":true,"attemptedAt":null,"chann
-[1]Novita      |16:43:13 | 13-10-2026| news: semua artikel sudah dibaca
+[1]Novita      |14:19:17 | 14-10-2026| news: 24/25 artikel selesai dibaca
+[1]Novita      |14:19:22 | 14-10-2026| mint eligibility: {"userId":"1711696802859388928","youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticReady":true,"attemptedAt":null,"chann
+[1]Novita      |14:19:29 | 14-10-2026| news [1/1] 5c5bca9d-4991-4e23-918b-9b13cd2245c8: OK completed=25
 --> [1]Novita menjalankan: Quiz Anime
-[1]Novita      |16:43:13 | 13-10-2026| quiz ep1: sudah dijawab
-[1]Novita      |16:43:13 | 13-10-2026| quiz ep2: sudah dijawab
-[1]Novita      |16:43:13 | 13-10-2026| quiz ep3: sudah dijawab
-[1]Novita      |16:43:13 | 13-10-2026| quiz ep4: sudah dijawab
-[1]Novita      |16:43:13 | 13-10-2026| quiz ep5: sudah dijawab
-[1]Novita      |16:43:13 | 13-10-2026| quiz ep6: sudah dijawab
+[1]Novita      |14:19:32 | 14-10-2026| quiz ep1: sudah dijawab
+[1]Novita      |14:19:32 | 14-10-2026| quiz ep2: sudah dijawab
+[1]Novita      |14:19:32 | 14-10-2026| quiz ep3: sudah dijawab
+[1]Novita      |14:19:32 | 14-10-2026| quiz ep4: sudah dijawab
+[1]Novita      |14:19:32 | 14-10-2026| quiz ep5: sudah dijawab
+[1]Novita      |14:19:32 | 14-10-2026| quiz ep6: sudah dijawab
 --> [1]Novita menjalankan: Music Missions (realtime, bisa lama!)
-[1]Novita      |16:43:15 | 13-10-2026| music: kedua misi sudah tercapai, stop
-[1]Novita      |16:43:16 | 13-10-2026| mission music-listens-10: sudah diklaim
-[1]Novita      |16:43:16 | 13-10-2026| mission music-minutes-30: sudah diklaim
-[1]Novita      |16:43:16 | 13-10-2026| mission anime-completed-3: sudah diklaim
+[1]Novita      |14:19:35 | 14-10-2026| music: kedua misi sudah tercapai, stop
+[1]Novita      |14:19:35 | 14-10-2026| mission music-listens-10: sudah diklaim
+[1]Novita      |14:19:35 | 14-10-2026| mission music-minutes-30: sudah diklaim
+[1]Novita      |14:19:35 | 14-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Novita menjalankan: Claim Missions
-[1]Novita      |16:43:16 | 13-10-2026| mission music-listens-10: sudah diklaim
-[1]Novita      |16:43:16 | 13-10-2026| mission music-minutes-30: sudah diklaim
-[1]Novita      |16:43:16 | 13-10-2026| mission anime-completed-3: sudah diklaim
+[1]Novita      |14:19:36 | 14-10-2026| mission music-listens-10: sudah diklaim
+[1]Novita      |14:19:36 | 14-10-2026| mission music-minutes-30: sudah diklaim
+[1]Novita      |14:19:36 | 14-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Novita menjalankan: Check Eligibility
 
 --- eligibility [1]Novita ---
-  @novitarastanty | score=1130 rank=5357
-  tasks    [###################-] 75/81
+  @novitarastanty | score=1200 rank=5058
+  tasks    [###################-] 75/78
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [####################] 6/6
   watch    [####################] 18/17
   music    [####################] 11/11
-  artikel  [####################] 24/24
+  artikel  [####################] 25/25
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Novita menjalankan: Read Manga
-[1]Novita      |16:43:19 | 13-10-2026| manga: 0/13 chapter belum completed
+[1]Novita      |14:19:41 | 14-10-2026| manga: 0/13 chapter belum completed
 --> [1]Novita menjalankan: Get Gift
-[1]Novita      |16:43:20 | 13-10-2026| gift: 1/4 belum diterima
-[1]Novita      |16:43:21 | 13-10-2026| gift [1/1] Silver Oshii: OK
+[1]Novita      |14:19:41 | 14-10-2026| gift: 0/4 belum diterima
 --> [1]Novita menjalankan: Setup Profile
-[1]Novita      |16:43:23 | 13-10-2026| profile: bio="https://x.com/novitarastanty" fav=amato rewardAt=1791686543
-[1]Novita      |16:43:23 | 13-10-2026| profile: bonus sudah diklaim, skip
+[1]Novita      |14:19:42 | 14-10-2026| profile: bio="https://x.com/novitarastanty" fav=amato rewardAt=1791686543
+[1]Novita      |14:19:42 | 14-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Novita menjalankan: Bind Wallet
-[1]Novita      |16:43:24 | 13-10-2026| wallet: sudah terikat FGSV2uTKkV... (solana)
+[1]Novita      |14:19:43 | 14-10-2026| wallet: sudah terikat FGSV2uTKkV... (solana)
 
 == RINGKASAN ==
-- Novita: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/4 diterima | profile - | wallet bound | mint req=false open=false
+- Novita: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
