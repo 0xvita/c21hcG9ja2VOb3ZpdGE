@@ -12,47 +12,49 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Novita =====
-[1]Novita      |08:19:18 | 26-10-2026| login OK @novitarastanty | score=2100 rank=3690
-[1]Novita      |08:19:18 | 26-10-2026| serverTime=2026-10-26T08:19:18.000Z local=2026-10-26T08:19:18.911Z
+[1]Novita      |08:31:55 | 27-10-2026| login OK @novitarastanty | score=2180 rank=3589
+[1]Novita      |08:31:55 | 27-10-2026| serverTime=2026-10-27T08:31:55.000Z local=2026-10-27T08:31:55.521Z
 --> [1]Novita menjalankan: Claim Daily
-[1]Novita      |08:19:20 | 26-10-2026| daily: OK +10 poin score=2110
---> [1]Novita menjalankan: Auto All Tasks (7 pending)
-[1]Novita      |08:19:22 | 26-10-2026| [1/7] 30fecda0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/novitarastanty/status/2114632540299566536
-[1]Novita      |08:19:22 | 26-10-2026| delay 10s...
-[1]Novita      |08:19:34 | 26-10-2026| [2/7] 1db0caec (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/novitarastanty/status/2114632695736496079
-[1]Novita      |08:19:34 | 26-10-2026| delay 10s...
-[1]Novita      |08:19:46 | 26-10-2026| [3/7] 494e1b1b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/novitarastanty/status/2114632594638152716
-[1]Novita      |08:19:46 | 26-10-2026| delay 10s...
-[1]Novita      |08:19:58 | 26-10-2026| [4/7] 9b683957 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/novitarastanty/status/2114632655141969137
-[1]Novita      |08:19:58 | 26-10-2026| delay 10s...
-[1]Novita      |08:20:10 | 26-10-2026| [5/7] ed948baf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/novitarastanty/status/2114632709317465353
-[1]Novita      |08:20:10 | 26-10-2026| delay 10s...
-[1]Novita      |08:20:22 | 26-10-2026| [6/7] d23e8d85 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/novitarastanty/status/2114632872368980299
-[1]Novita      |08:20:22 | 26-10-2026| delay 10s...
-[1]Novita      |08:20:34 | 26-10-2026| [7/7] 33550c8b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/novitarastanty/status/2114632947930779095
-[1]Novita      |08:20:34 | 26-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Novita      |08:20:36 | 26-10-2026| [1/1] 30fecda0 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2114543843555385 | proof=https://x.com/novitarastanty/status/2114632914252403164
+[1]Novita      |08:31:56 | 27-10-2026| daily: OK +10 poin score=2190
+--> [1]Novita menjalankan: Auto All Tasks (8 pending)
+[1]Novita      |08:31:58 | 27-10-2026| [1/8] 569b202e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/novitarastanty/status/2114998035328472346
+[1]Novita      |08:31:58 | 27-10-2026| delay 10s...
+[1]Novita      |08:32:10 | 27-10-2026| [2/8] 0c0c4157 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/novitarastanty/status/2114997954784518786
+[1]Novita      |08:32:10 | 27-10-2026| delay 10s...
+[1]Novita      |08:32:22 | 27-10-2026| [3/8] affba66c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/novitarastanty/status/2114998122142176258
+[1]Novita      |08:32:22 | 27-10-2026| delay 10s...
+[1]Novita      |08:32:34 | 27-10-2026| [4/8] 3a506cad (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/novitarastanty/status/2114998310083973782
+[1]Novita      |08:32:34 | 27-10-2026| delay 10s...
+[1]Novita      |08:32:46 | 27-10-2026| [5/8] dac9c018 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796
+[1]Novita      |08:32:46 | 27-10-2026| delay 10s...
+[1]Novita      |08:32:58 | 27-10-2026| [6/8] 9edbb28a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/novitarastanty/status/2114998215193317980
+[1]Novita      |08:32:58 | 27-10-2026| delay 10s...
+[1]Novita      |08:33:10 | 27-10-2026| [7/8] 6c6d6f6f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/novitarastanty/status/2114998495911463219
+[1]Novita      |08:33:10 | 27-10-2026| delay 10s...
+[1]Novita      |08:33:22 | 27-10-2026| [8/8] f12f3018 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/novitarastanty/status/2114998315287014120
+[1]Novita      |08:33:22 | 27-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Novita      |08:33:23 | 27-10-2026| [1/1] 569b202e (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2114962790477967 | proof=https://x.com/novitarastanty/status/2114998612139279726
 --> [1]Novita menjalankan: Watch Anime
-[1]Novita      |08:20:36 | 26-10-2026| watch: semua video sudah completed
+[1]Novita      |08:33:24 | 27-10-2026| watch: semua video sudah completed
 --> [1]Novita menjalankan: Read Article
-[1]Novita      |08:20:38 | 26-10-2026| news: 30/30 artikel selesai dibaca
-[1]Novita      |08:20:39 | 26-10-2026| mint eligibility: {"userId":"1711696802859388928","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
-[1]Novita      |08:20:39 | 26-10-2026| news: semua artikel sudah dibaca
+[1]Novita      |08:33:25 | 27-10-2026| news: 30/30 artikel selesai dibaca
+[1]Novita      |08:33:26 | 27-10-2026| mint eligibility: {"userId":"1711696802859388928","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
+[1]Novita      |08:33:26 | 27-10-2026| news: semua artikel sudah dibaca
 --> [1]Novita menjalankan: Quiz Anime
 --> [1]Novita menjalankan: Music Missions (realtime, bisa lama!)
-[1]Novita      |08:20:41 | 26-10-2026| music: kedua misi sudah tercapai, stop
-[1]Novita      |08:20:41 | 26-10-2026| mission music-listens-10: sudah diklaim
-[1]Novita      |08:20:41 | 26-10-2026| mission music-minutes-30: sudah diklaim
-[1]Novita      |08:20:41 | 26-10-2026| mission anime-completed-3: sudah diklaim
+[1]Novita      |08:33:29 | 27-10-2026| music: kedua misi sudah tercapai, stop
+[1]Novita      |08:33:29 | 27-10-2026| mission music-listens-10: sudah diklaim
+[1]Novita      |08:33:29 | 27-10-2026| mission music-minutes-30: sudah diklaim
+[1]Novita      |08:33:29 | 27-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Novita menjalankan: Claim Missions
-[1]Novita      |08:20:42 | 26-10-2026| mission music-listens-10: sudah diklaim
-[1]Novita      |08:20:42 | 26-10-2026| mission music-minutes-30: sudah diklaim
-[1]Novita      |08:20:42 | 26-10-2026| mission anime-completed-3: sudah diklaim
+[1]Novita      |08:33:30 | 27-10-2026| mission music-listens-10: sudah diklaim
+[1]Novita      |08:33:30 | 27-10-2026| mission music-minutes-30: sudah diklaim
+[1]Novita      |08:33:30 | 27-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Novita menjalankan: Check Eligibility
 
 --- eligibility [1]Novita ---
-  @novitarastanty | score=2100 rank=3690
-  tasks    [###-----------------] 1/8
+  @novitarastanty | score=2180 rank=3589
+  tasks    [#########-----------] 7/15
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -63,14 +65,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Novita menjalankan: Read Manga
-[1]Novita      |08:20:46 | 26-10-2026| manga: 0/13 chapter belum completed
+[1]Novita      |08:33:35 | 27-10-2026| manga: 0/13 chapter belum completed
 --> [1]Novita menjalankan: Get Gift
-[1]Novita      |08:20:46 | 26-10-2026| gift: 0/4 belum diterima
+[1]Novita      |08:33:36 | 27-10-2026| gift: 0/4 belum diterima
 --> [1]Novita menjalankan: Setup Profile
-[1]Novita      |08:20:47 | 26-10-2026| profile: bio="https://x.com/novitarastanty" fav=amato rewardAt=1791686543
-[1]Novita      |08:20:47 | 26-10-2026| profile: bonus sudah diklaim, skip
+[1]Novita      |08:33:37 | 27-10-2026| profile: bio="https://x.com/novitarastanty" fav=amato rewardAt=1791686543
+[1]Novita      |08:33:37 | 27-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Novita menjalankan: Bind Wallet
-[1]Novita      |08:20:47 | 26-10-2026| wallet: sudah terikat FGSV2uTKkV... (solana)
+[1]Novita      |08:33:37 | 27-10-2026| wallet: sudah terikat FGSV2uTKkV... (solana)
 
 == RINGKASAN ==
-- Novita: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Novita: daily=claimed | tasks OK 9/9 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
