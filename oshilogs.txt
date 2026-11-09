@@ -12,40 +12,40 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Novita =====
-[1]Novita      |08:22:23 | 08-11-2026| login OK @novitarastanty | score=2990 rank=2525
-[1]Novita      |08:22:23 | 08-11-2026| serverTime=2026-11-08T08:22:23.000Z local=2026-11-08T08:22:23.368Z
+[1]Novita      |08:53:37 | 09-11-2026| login OK @novitarastanty | score=3040 rank=2479
+[1]Novita      |08:53:37 | 09-11-2026| serverTime=2026-11-09T08:53:36.000Z local=2026-11-09T08:53:37.426Z
 --> [1]Novita menjalankan: Claim Daily
-[1]Novita      |08:22:26 | 08-11-2026| daily: OK +10 poin score=3000
+[1]Novita      |08:53:39 | 09-11-2026| daily: OK +10 poin score=3050
 --> [1]Novita menjalankan: Auto All Tasks (4 pending)
-[1]Novita      |08:22:27 | 08-11-2026| [1/4] 1e22156f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1e22156f-2ce1-46d1-9ee4-60b796006750","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211924137814021 | proof=https://x.com/novitarastanty/status/2119344205830074855
-[1]Novita      |08:22:27 | 08-11-2026| delay 10s...
-[1]Novita      |08:22:40 | 08-11-2026| [2/4] e0619629 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1e22156f-2ce1-46d1-9ee4-60b796006750","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211924137814021 | proof=https://x.com/novitarastanty/status/2119344204641374086
-[1]Novita      |08:22:40 | 08-11-2026| delay 10s...
-[1]Novita      |08:22:52 | 08-11-2026| [3/4] 260028a2 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1e22156f-2ce1-46d1-9ee4-60b796006750","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211924137814021 | proof=https://x.com/novitarastanty/status/2119344600970628586
-[1]Novita      |08:22:52 | 08-11-2026| delay 10s...
-[1]Novita      |08:23:03 | 08-11-2026| [4/4] ceb22d73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1e22156f-2ce1-46d1-9ee4-60b796006750","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211924137814021 | proof=https://x.com/novitarastanty/status/2119344549470337430
-[1]Novita      |08:23:03 | 08-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Novita      |08:23:05 | 08-11-2026| [1/1] 1e22156f (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"1e22156f-2ce1-46d1-9ee4-60b796006750","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2119241378140217 | proof=https://x.com/novitarastanty/status/2119344443592095488
+[1]Novita      |08:53:41 | 09-11-2026| [1/4] 886201b6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"886201b6-c4f4-4684-9e4d-0ac33c5727ca","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211970067089088 | proof=https://x.com/novitarastanty/status/2119714435037780755
+[1]Novita      |08:53:41 | 09-11-2026| delay 10s...
+[1]Novita      |08:53:54 | 09-11-2026| [2/4] 205b2462 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"886201b6-c4f4-4684-9e4d-0ac33c5727ca","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211970067089088 | proof=https://x.com/novitarastanty/status/2119714703924297340
+[1]Novita      |08:53:54 | 09-11-2026| delay 10s...
+[1]Novita      |08:54:06 | 09-11-2026| [3/4] 360d1d0f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"886201b6-c4f4-4684-9e4d-0ac33c5727ca","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211970067089088 | proof=https://x.com/novitarastanty/status/2119714759424711522
+[1]Novita      |08:54:06 | 09-11-2026| delay 10s...
+[1]Novita      |08:54:19 | 09-11-2026| [4/4] 8ff23e97 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"886201b6-c4f4-4684-9e4d-0ac33c5727ca","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211970067089088 | proof=https://x.com/novitarastanty/status/2119714575616993613
+[1]Novita      |08:54:19 | 09-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Novita      |08:54:21 | 09-11-2026| [1/1] 886201b6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"886201b6-c4f4-4684-9e4d-0ac33c5727ca","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2119700670890889 | proof=https://x.com/novitarastanty/status/2119714911324992337
 --> [1]Novita menjalankan: Watch Anime
-[1]Novita      |08:23:05 | 08-11-2026| watch: semua video sudah completed
+[1]Novita      |08:54:22 | 09-11-2026| watch: semua video sudah completed
 --> [1]Novita menjalankan: Read Article
-[1]Novita      |08:23:06 | 08-11-2026| news: 34/34 artikel selesai dibaca
-[1]Novita      |08:23:07 | 08-11-2026| mint eligibility: {"userId":"1711696802859388928","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
-[1]Novita      |08:23:07 | 08-11-2026| news: semua artikel sudah dibaca
+[1]Novita      |08:54:23 | 09-11-2026| news: 34/34 artikel selesai dibaca
+[1]Novita      |08:54:24 | 09-11-2026| mint eligibility: {"userId":"1711696802859388928","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
+[1]Novita      |08:54:24 | 09-11-2026| news: semua artikel sudah dibaca
 --> [1]Novita menjalankan: Quiz Anime
 --> [1]Novita menjalankan: Music Missions (realtime, bisa lama!)
-[1]Novita      |08:23:09 | 08-11-2026| music: kedua misi sudah tercapai, stop
-[1]Novita      |08:23:10 | 08-11-2026| mission music-listens-10: sudah diklaim
-[1]Novita      |08:23:10 | 08-11-2026| mission music-minutes-30: sudah diklaim
-[1]Novita      |08:23:10 | 08-11-2026| mission anime-completed-3: sudah diklaim
+[1]Novita      |08:54:27 | 09-11-2026| music: kedua misi sudah tercapai, stop
+[1]Novita      |08:54:28 | 09-11-2026| mission music-listens-10: sudah diklaim
+[1]Novita      |08:54:28 | 09-11-2026| mission music-minutes-30: sudah diklaim
+[1]Novita      |08:54:28 | 09-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Novita menjalankan: Claim Missions
-[1]Novita      |08:23:10 | 08-11-2026| mission music-listens-10: sudah diklaim
-[1]Novita      |08:23:10 | 08-11-2026| mission music-minutes-30: sudah diklaim
-[1]Novita      |08:23:10 | 08-11-2026| mission anime-completed-3: sudah diklaim
+[1]Novita      |08:54:28 | 09-11-2026| mission music-listens-10: sudah diklaim
+[1]Novita      |08:54:28 | 09-11-2026| mission music-minutes-30: sudah diklaim
+[1]Novita      |08:54:28 | 09-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Novita menjalankan: Check Eligibility
 
 --- eligibility [1]Novita ---
-  @novitarastanty | score=2990 rank=2525
+  @novitarastanty | score=3040 rank=2479
   tasks    [#######-------------] 2/6
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
@@ -57,17 +57,18 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Novita menjalankan: Read Manga
-[1]Novita      |08:23:14 | 08-11-2026| manga: 0/13 chapter belum completed
+[1]Novita      |08:54:34 | 09-11-2026| manga: 0/13 chapter belum completed
 --> [1]Novita menjalankan: Get Gift
-[1]Novita      |08:23:18 | 08-11-2026| gift: 3/9 belum diterima
-[1]Novita      |08:23:19 | 08-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Novita      |08:23:21 | 08-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Novita      |08:23:24 | 08-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Novita      |08:54:36 | 09-11-2026| gift: 4/10 belum diterima
+[1]Novita      |08:54:39 | 09-11-2026| gift [1/4] OSHI cheering GIFs (16:9): OK
+[1]Novita      |08:54:42 | 09-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Novita      |08:54:45 | 09-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Novita      |08:54:47 | 09-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Novita menjalankan: Setup Profile
-[1]Novita      |08:23:27 | 08-11-2026| profile: bio="https://x.com/novitarastanty" fav=amato rewardAt=1791686543
-[1]Novita      |08:23:27 | 08-11-2026| profile: bonus sudah diklaim, skip
+[1]Novita      |08:54:50 | 09-11-2026| profile: bio="https://x.com/novitarastanty" fav=amato rewardAt=1791686543
+[1]Novita      |08:54:50 | 09-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Novita menjalankan: Bind Wallet
-[1]Novita      |08:23:27 | 08-11-2026| wallet: sudah terikat FGSV2uTKkV... (solana)
+[1]Novita      |08:54:51 | 09-11-2026| wallet: sudah terikat FGSV2uTKkV... (solana)
 
 == RINGKASAN ==
-- Novita: daily=claimed | tasks OK 5/5 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
+- Novita: daily=claimed | tasks OK 5/5 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/10 diterima | profile - | wallet bound | mint req=false open=false
